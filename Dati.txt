@@ -1,0 +1,5 @@
+AZ100 Venezia Roma 15:00 15:45 50
+AZ093 Roma Parigi 19:10 21:00 250
+BA123 Londra Roma 09:00 11:10 70
+BA077 Venezia Londra 08:00 09:25 60
+LF145 Venezia Berlino 15:10 16:15 50
